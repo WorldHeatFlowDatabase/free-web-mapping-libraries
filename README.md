@@ -8,7 +8,7 @@ Further development of front-end technologies makes client-side web mapping appl
 The information gained by this research is in use for developing and implementing an interactive web mapping application as part of the World Heat Flow Database Project. Beside this, the document offers an overview for people who are new to this topic, provides code examples for common web GIS features and makes the readers familiar with topic-specific vocabulary and terms.
 
 ## Extend the functionality matrix <a name="extend"></a>
-You can send a merge request containing the addition. Therefore, a basic template should be satisfied:<br>
+You can send a pull request containing the addition. Therefore, a basic template should be satisfied:<br>
 <br>
 ⬌ Within one row:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;links only related to the corresponding functionality<br>
  ⬍  Within one column:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;links only related to the corresponding library <br>
