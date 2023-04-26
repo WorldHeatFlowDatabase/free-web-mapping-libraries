@@ -17,14 +17,14 @@ You can send a pull request containing the addition. Therefore, a basic template
 o Add a new Link to an existing functionality (as bullet point in field)
  ```html
 <li>
-    <a href="<link_to_web_source>"><Title></a>
+    <a href="<link_to_web_source>">Title</a>
 </li>
  ```
 o Add workflow to an existing functionality (as numbered list in field)
  ```html
 <ol type="1">
     <li>
-        <a href="<link_to_web_source>"><Title></a>
+        <a href="<link_to_web_source>">Title</a>
     </li>
 </ol>
  ```
@@ -36,19 +36,19 @@ o Add a new functionailty (as row in tabel)
     <td>
         <li>
             <!--Leaflet link-->
-            <a href="https://leafletjs.com/plugins.html#overlay-data-formats">Overlay data formats</a>
+            <a href="<link_to_web_source>">Title</a>
         </li>
     </td>
     <td>
         <li>
             <!--MapLibre link-->
-            <a href="https://maplibre.org/maplibre-gl-js-docs/style-spec/sources/#geojson">GeoJSON</a>
+            <a href="<link_to_web_source>">Title</a>
         </li>
     </td>
     <td>
         <li>
             <!--OpenLayers link-->
-            <a href="https://openlayers.org/en/latest/apidoc/module-ol_format_Feature-FeatureFormat.html">ol/format/Feature~FeatureFormat</a>
+            <a href="<link_to_web_source>">Title</a>
         </li>
     </td>
 </tr>
