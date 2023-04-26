@@ -14,13 +14,13 @@ You can send a merge request containing the addition. Therefore, a basic templat
  ⬍  Within one column:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;links only related to the corresponding library <br>
 ⬌ + ⬍ Within one field:&nbsp;&nbsp;&nbsp;&nbsp;links only related to the corresponding functionality and library following the template below<br>
 <br>
-o Add a new Link to an existing functionality (as bullet point)
+o Add a new Link to an existing functionality (as bullet point in field)
  ```html
 <li>
     <a href="<link_to_web_source>"><Title></a>
 </li>
  ```
-o Add workflow to an existing functionality (as numbered list)
+o Add workflow to an existing functionality (as numbered list in field)
  ```html
 <ol type="1">
     <li>
@@ -28,7 +28,7 @@ o Add workflow to an existing functionality (as numbered list)
     </li>
 </ol>
  ```
-o Add a new functionailty (as row)
+o Add a new functionailty (as row in tabel)
 ```html
 <tr>
     <!--Functionality name-->

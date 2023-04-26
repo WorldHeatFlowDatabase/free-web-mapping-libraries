@@ -6,7 +6,7 @@
         <th>Functionality</th>
         <th>Leaflet v1.9</th>
         <th>MapLibre v2.4</th>
-        <th>OpenLayers v7.1</th>
+        <th>OpenLayers v7.3</th>
       </tr>
       <tr>
         <td>Support WebGL</td>
